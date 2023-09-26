@@ -1,0 +1,139 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+img{
+    width: 220px;
+    height: 60px;
+   
+}
+a{
+    list-style: none;
+    text-decoration: none;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(37, 35, 35);
+    align-items: center;
+    font-family: 'Mooli', sans-serif;
+}
+.nav-links{
+    list-style: none;
+}
+.nav-links li{
+display: inline-block;
+padding-left: 10px;
+font-weight: 500;
+}
+.nav-links li a:hover{
+    color: palevioletred;
+   }
+   .nav-links li a{
+    color: white;
+   }
+   .bt-login{
+    width: 90px;
+    height: 30px;
+    border-radius: 15px;
+    background-color: rgb(5, 215, 248);
+    border-style: none;
+    color:white;
+    cursor: pointer;
+    margin-right: 10px;
+    font-family: 'Mooli', sans-serif;
+    font-weight: bold;
+   
+   }
+     .bt-login:hover{
+    color: rgb(202, 25, 184);
+    cursor: pointer;
+     }
+
+     .big{
+        font-size: 65px;
+        color: rgb(252, 242, 242)
+        
+     }
+     .small{
+        font-size: 20px;
+        color: rgb(142, 138, 136);
+     }
+     .aaaa{
+        height: 350px;
+        width: 500px;
+     }
+     .main{
+        display: flex;
+        justify-content: space-between;
+        background-color: rgb(37, 35, 35);
+     }
+
+.btnn{
+    color: rgb(255, 254, 255);
+    border-radius: 30px;
+    width: 120px;
+    height: 40px;
+    background-color: rgb(5, 215, 248);
+    cursor: pointer;  
+    margin-top: 50px; 
+    margin-left: 20px;
+    border: none;
+    font-family: 'Mooli', sans-serif;
+    font-weight: bold;
+   
+
+}
+div{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.kk{
+    color: aqua;
+}
+.logo{
+    padding: 60px;
+    height: 130px;
+    width: 210px;
+}
+.whole{
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+}
+.logoo{
+    
+    height: 100px;
+    width: 200px;
+    padding-left: 40px;
+}
+.whole2{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.text{
+padding-left: 600px;
+    display: inline-block;
+}
+
+.ABOUT{
+    text-align: center;
+}
+.t-i{
+    display: flex;
+    padding-top: 20px;
+}
+
+.classs{
+    width: 100%;
+    height: 46px;
+    background-color: rgb(145, 145, 153);
+    margin: 40px;
+    margin-top: 40px;
+}
+.mnb{
+    margin-left: 400px;
+    font-size: 40px;
+}
